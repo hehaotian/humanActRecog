@@ -3,7 +3,7 @@ Human Activity Recognition
 
 Haotian He
 haotianh@u.washington.edu
--------------------------
+
 
 In order to run properly, all the program files should be put into the folder UCI_HAR_Dataset, which is the project dataset folder downloaded online. For details for each program file, please read the directory below.
 
